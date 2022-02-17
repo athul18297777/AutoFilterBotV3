@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Athul|🦋](
-https://t.me/https_athul)
+➥ Creator : [Athul|🦋](https://t.me/https_athul)
+
 
 ➥ Language : Python3
 
